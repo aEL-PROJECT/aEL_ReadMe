@@ -9,3 +9,6 @@ yarn add react-daum-postcode<br>
 yarn add axios<br>
 yarn add react-router-dom<br>
 yarn add styled-components<br>
+
+pdf File download link
+<a href="https://firebasestorage.googleapis.com/v0/b/immutable-finalproj.appspot.com/o/pdf_mini_Proj%2FUntitled.pdf?alt=media&token=df53b0ef-f1a7-4cd6-90ca-c396c8bb4414" target="_blank">here</a>
