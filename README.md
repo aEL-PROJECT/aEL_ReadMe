@@ -11,6 +11,6 @@ yarn add react-router-dom<br>
 yarn add styled-components<br>
 
 story board File link 
-<a href="https://firebasestorage.googleapis.com/v0/b/immutable-finalproj.appspot.com/o/pdf_mini_Proj%2Fmini_proj_StoryBoard.pdf?alt=media&token=8af41929-9180-43c1-8fe1-72fbed98d360" target="_blank">here</a>
+<a href="https://firebasestorage.googleapis.com/v0/b/immutable-finalproj.appspot.com/o/pdf_mini_Proj%2Fmini_proj_StoryBoard.pdf?alt=media&token=8af41929-9180-43c1-8fe1-72fbed98d360" target="_blank">here</a> <br>
 pdf File download link
 <a href="https://firebasestorage.googleapis.com/v0/b/immutable-finalproj.appspot.com/o/pdf_mini_Proj%2FUntitled.pdf?alt=media&token=df53b0ef-f1a7-4cd6-90ca-c396c8bb4414" target="_blank">here</a>
